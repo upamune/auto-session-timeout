@@ -25,7 +25,9 @@ if (typeof(Ajax) != 'undefined') {
 
     window.location.href = '/timeout';
     return;
+  });
 }
+
 JS
     javascript_tag(code)
   end
